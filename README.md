@@ -11,6 +11,9 @@ I viewed the aside, footer and main elements.
 I viewed the title.
 
 ## Mock-Up
-![ Screenshot 1](../Khufo/Develop/assets/images/Screenshot%201.png)
+![ Screenshot 1](./Develop/assets/images/Screenshot%201.png)
 ![ Screenshot 2](./Develop/assets/images/Screenshot%202.png)
 ![ Screenshot 3](./Develop/assets/images/Screenshot%203.png)
+
+
+## Links 
